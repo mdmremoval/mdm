@@ -3,7 +3,7 @@
 
 ***
 
-# Part 1: iPad prep
+# The process
 
 MDM stands for Mobile Device Management, it allows your institution to control your iPad. It also allows them to install restrictions.
 The tool we are going to use cannot work with encrypted backups, as most MDM suites force backup encryption we will have to reset our iPad.
