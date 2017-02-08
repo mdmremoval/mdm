@@ -35,6 +35,6 @@ look on the far left on the devices screen and click on it.)
 
 11: Scroll down and look for **System Files > HomeDomain > Library > ConfigurationProfiles** as soon as you have opened that folder (ConfigurationProfiles), delete everything in it. A warning will appear, ignore it (select yes.)
 
-12: Look for the restore option at the top of iBackupBot. It is next to the red X (not the close program button.) Click it and a list of options will appear. Leave them as they are ( **MAKE SURE THERE IS NO PASSWORD ON YOUR IPAD. MAKE SURE THERE IS NO AIRPLANE MODE.**) and click Restore. Leave your iPad to restore and wait for it to reboot. When it reboots verify it works correctly, you can now turn off airplane mode and you no longer have restrictions.
+12: Look for the restore option at the top of iBackupBot. It is next to the red X (not the close program button.) Click it and a list of options will appear. Leave them as they are (**MAKE SURE THERE IS NO PASSWORD ON YOUR IPAD. MAKE SURE THERE IS NO AIRPLANE MODE.**) and click Restore. Leave your iPad to restore and wait for it to reboot. When it reboots verify it works correctly, you can now turn off airplane mode and you no longer have restrictions.
 
 Congratulations, you have finished the guide. I will be adding images shortly.
