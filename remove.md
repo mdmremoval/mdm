@@ -25,5 +25,14 @@ look on the far left on the devices screen and click on it.)
 
 7: Do the usual setup process that involves setting up Wifi and entering student or employee username and password. After you have done this your iPad will finally say "Welcome to iPad."
 
-8: *AS SOON AS YOU CLICK THIS YOU WILL SEE YOUR HOMESCREEN* **OPEN THE CONTROL CENTER (SWIPE UP) AND TURN ON AIT
+8: *AS SOON AS YOU CLICK THIS YOU WILL SEE YOUR HOMESCREEN* **OPEN THE CONTROL CENTER (SWIPE UP) AND TURN ON AIRPLANE MODE.** If you were quick enough, your appstore and iMessage app should still be there. **DO NOT TURN OFF AIRPLANE MODE.**
 
+9: Go onto your computer and download iBackupBot from [here](http://www.icopybot.com/download.htm). Make sure you download iBackupBot and **NOT iCOPYBOT**. Most computers will be 64bit.
+
+10: Open iBackupBot with your computer plugged in. On the devices section your iPad name should appear. Click on the name and a screen will popup. Make sure it says "Backup Encryption Off". Now click "Backup Now". Pick the default iTunes location and carry on. When it's done, a message will appear - "LOAD BACKUP INTO iBACKUPBOT" click Yes. At the top left of the screen a list of files should appear click the little plus sign next to the name of your backup.
+
+11: Scroll down and look for **System Files > HomeDomain > Library > Configuration Profiles** as soon as you have opened that folder, delete everything in it. A warning will appear, ignore it.
+
+12: Look for the restore option at the top of iBackupBot. It is next to the red X (not the close program button.) Click it and a list of options will appear. Leave them as they are and click Restore. **MAKE SURE THERE IS NO PASSWORD ON YOUR IPAD. MAKE SURE THERE IS NO AIRPLANE MODE.** Leave your iPad on and wait for it to reboot. When it reboots verify it works correctly, you can now turn off airplane mode and you no longer have restrictions.
+
+Congratulations, you have finished the guide. I will be adding images shortly.
